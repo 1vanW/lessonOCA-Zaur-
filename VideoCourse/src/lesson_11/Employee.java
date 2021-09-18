@@ -13,4 +13,9 @@ public class Employee {
     public double uvelichenie(double a){
         return a = a * 2;
     }
+    public double zp2(){
+        salary +=salary;
+        return salary;
+
+    }
 }
